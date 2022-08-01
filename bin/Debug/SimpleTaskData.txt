@@ -57,7 +57,7 @@
           "Title": "Sort example linq",
           "Type": "text",
           "Text": "list.Sort((a, b) => a.Item2.CompareTo(b.Item2));\n",
-          "ClickCount": 1,
+          "ClickCount": 2,
           "Color Index": 2
         },
         {
@@ -95,7 +95,7 @@
           "Color Index": 0
         },
         {
-          "Title": "cel shading",
+          "Title": "cel shading nodes",
           "Type": "image",
           "Text": "0601212143101410.png",
           "ClickCount": 0,
@@ -112,7 +112,7 @@
           "Title": "GIT commands",
           "Type": "text",
           "Text": "\ngit add --all\ngit commit -am \"message\"\ngit tag\"step-x\"\ngit push\ngit push --tags\n",
-          "ClickCount": 0,
+          "ClickCount": 1,
           "Color Index": 7
         },
         {
@@ -395,6 +395,81 @@
           "Text": "flutter pub add firebase_core\nflutter pub add firebase_auth\nflutter pub add cloud_firestore\nflutter pub add firebase_analytics\n\n\ncore: server\nauth: authentication register, login ,log out, email confirmations\nfirestore: stores notes in backend\nanalytics: analytics",
           "ClickCount": 0,
           "Color Index": 4
+        }
+      ]
+    },
+    {
+      "Title": "zoom links",
+      "Notes": "",
+      "Elements": [
+        {
+          "Title": "1st lesson",
+          "Type": "link",
+          "Text": "aaaaaaa\n",
+          "ClickCount": 0,
+          "Color Index": 7
+        },
+        {
+          "Title": "2nd lesson",
+          "Type": "link",
+          "Text": "bbbbbbbbbb\n",
+          "ClickCount": 0,
+          "Color Index": 4
+        },
+        {
+          "Title": "3rd lesson",
+          "Type": "text",
+          "Text": "ccccccccccc\n",
+          "ClickCount": 0,
+          "Color Index": 8
+        }
+      ]
+    },
+    {
+      "Title": "github images",
+      "Notes": "",
+      "Elements": [
+        {
+          "Title": "whole",
+          "Type": "image",
+          "Text": "107810108101213.png",
+          "ClickCount": 0,
+          "Color Index": 2
+        },
+        {
+          "Title": "A link when I need to download music",
+          "Type": "link",
+          "Text": "https://github.com/spotDL/spotify-downloader\n",
+          "ClickCount": 0,
+          "Color Index": 3
+        },
+        {
+          "Title": "creating element",
+          "Type": "image",
+          "Text": "104141214412710.png",
+          "ClickCount": 0,
+          "Color Index": 2
+        },
+        {
+          "Title": "sorting",
+          "Type": "image",
+          "Text": "81011141211123713.png",
+          "ClickCount": 0,
+          "Color Index": 2
+        },
+        {
+          "Title": "expand before",
+          "Type": "image",
+          "Text": "61114136591007.png",
+          "ClickCount": 0,
+          "Color Index": 2
+        },
+        {
+          "Title": "expand after",
+          "Type": "image",
+          "Text": "25982110874.png",
+          "ClickCount": 0,
+          "Color Index": 2
         }
       ]
     }
