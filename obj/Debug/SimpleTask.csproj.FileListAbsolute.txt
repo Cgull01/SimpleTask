@@ -1,0 +1,253 @@
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - conteinerClass\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - Copy - containerClass\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\BouncyCastle.Crypto.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\Google.Protobuf.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\K4os.Compression.LZ4.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\K4os.Hash.xxHash.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\MySql.Data.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\Renci.SshNet.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Buffers.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Memory.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Numerics.Vectors.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\Ubiety.Dns.Core.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\Zstandard.Net.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\Google.Protobuf.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\Google.Protobuf.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\K4os.Compression.LZ4.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\K4os.Hash.xxHash.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\MySql.Data.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\Renci.SshNet.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Buffers.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Memory.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Numerics.Vectors.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - database\obj\Debug\SimpleTask.csproj.CopyComplete
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\BouncyCastle.Crypto.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\Google.Protobuf.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\K4os.Compression.LZ4.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\K4os.Hash.xxHash.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\MySql.Data.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\Renci.SshNet.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Buffers.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Memory.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Numerics.Vectors.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\Ubiety.Dns.Core.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\Zstandard.Net.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\Google.Protobuf.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\Google.Protobuf.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\K4os.Compression.LZ4.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\K4os.Hash.xxHash.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\MySql.Data.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\Renci.SshNet.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Buffers.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Memory.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Numerics.Vectors.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.csproj.ResolveComReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.csproj.CopyComplete
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\SimpleTask - excel and database\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\BouncyCastle.Crypto.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\Google.Protobuf.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\K4os.Compression.LZ4.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\K4os.Hash.xxHash.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\MySql.Data.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\Renci.SshNet.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Buffers.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Memory.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Numerics.Vectors.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\Ubiety.Dns.Core.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\Zstandard.Net.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\Google.Protobuf.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\Google.Protobuf.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\K4os.Compression.LZ4.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\K4os.Hash.xxHash.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\MySql.Data.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\Renci.SshNet.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Buffers.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Memory.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Numerics.Vectors.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.csproj.ResolveComReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.csproj.CopyComplete
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\Tomas Motiejunas baigiamasis darbas PS02V\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\BouncyCastle.Crypto.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Google.Protobuf.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\K4os.Compression.LZ4.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\K4os.Hash.xxHash.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\MySql.Data.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Renci.SshNet.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Buffers.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Memory.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Numerics.Vectors.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Ubiety.Dns.Core.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Zstandard.Net.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Google.Protobuf.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Google.Protobuf.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\K4os.Compression.LZ4.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\K4os.Hash.xxHash.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\MySql.Data.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Renci.SshNet.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Buffers.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Memory.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Numerics.Vectors.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.csproj.ResolveComReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.csproj.CopyComplete
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\obj\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Text.Encodings.Web.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.ValueTuple.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Text.Encodings.Web.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\System.ValueTuple.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask\bin\Debug\Newtonsoft.Json.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\SimpleTask.exe.config
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\SimpleTask.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Google.Protobuf.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\MySql.Data.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Newtonsoft.Json.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Renci.SshNet.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Buffers.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Memory.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Numerics.Vectors.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Text.Encodings.Web.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.ValueTuple.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Ubiety.Dns.Core.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Zstandard.Net.dll
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Google.Protobuf.pdb
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Google.Protobuf.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\MySql.Data.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\Renci.SshNet.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Buffers.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Memory.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Numerics.Vectors.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Text.Encodings.Web.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\bin\Debug\System.ValueTuple.xml
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.csprojAssemblyReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.csproj.ResolveComReference.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.Form1.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.Form2.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.Form3.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.Properties.Resources.resources
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.csproj.GenerateResource.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.csproj.CopyComplete
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.exe
+D:\Duomenys\Vartotojas\Desktop\Programing\c#\Simpletask final\SimpleTask 2.0\obj\Debug\SimpleTask.pdb
