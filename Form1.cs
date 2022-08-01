@@ -616,7 +616,7 @@ namespace SimpleTask
             else
             {
 
-                ShowInformationPanel("1) Select elements        2) Select a group to move elements", false);
+                ShowInformationPanel("1) Select elements       2) Select a group to move elements", false);
 
                 HideControls(PanelAddElement, BTNdeleteElements, BTNdeleteElementsNO, BTNdeleteElementsYES, FLPsideButtons, MainPanel, FLPsuggestedElements, LabelsuggestedElements);
 
